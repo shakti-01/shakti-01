@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: 
 -->
-![Shakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakti-01&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple)
+![Shakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakti-01&show_icons=true&count_private=true&theme=midnight-purple)
 
 
