@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **pnandashakti@gmail.com**
 
-- ⚡ Fun fact **i am a fellow anime lover :star_struck:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
